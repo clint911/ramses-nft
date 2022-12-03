@@ -1,0 +1,29 @@
+{
+
+    "attributes": [
+  
+      {
+  
+        "trait_type": "Breed",
+  
+        "value": "Maltipoo"
+  
+      },
+  
+      {
+  
+        "trait_type": "Eye color",
+  
+        "value": "Mocha"
+  
+      }
+  
+    ],
+  
+    "description": "Clinton's cute little puppy.",
+  
+    "image": "ipfs://QmWmvTJmJU3pozR9ZHFmQC2DNDwi2XJtf3QGyYiiagFSWb",
+  
+    "name": "Ramses"
+  
+  }
